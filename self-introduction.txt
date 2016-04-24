@@ -1,2 +1,4 @@
 I am Akiko Horino
 Hello Git-Hand-On
+hogehogefugafuga
+tetstest
